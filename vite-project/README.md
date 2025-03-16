@@ -4,5 +4,5 @@
 ✅ Final Price 
 ✅ Simple and clean UI
 
-Using Javascript, HTML, CSS and bootstrap
+Using Javascript, HTML, CSS and bootstrap. 
 

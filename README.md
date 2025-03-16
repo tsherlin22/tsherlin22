@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hi 👋 
 
 - 🔭 I’m currently working on my web developer project.
 - 🌱 I’m currently learning ux/ui design
